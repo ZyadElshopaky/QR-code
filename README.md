@@ -1,4 +1,4 @@
-#Frontend Mentor - QR code component
+## Frontend Mentor - QR code component
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Description
@@ -11,7 +11,7 @@ This repository contains a QR code project primarily built using HTML and CSS.
 ## Repository Details
 - **Owner**: [ZyadElshopaky](https://github.com/ZyadElshopaky)
 - **Created on**: October 19, 2024
-- **Page **:[QR code component](https://zyadelshopaky.github.io/QR-code/)
+- **Page **: [QR code component](https://zyadelshopaky.github.io/QR-code/)
 - **Updated on**: October 20, 2024
 - **Default Branch**: master
 - **Visibility**: Public
