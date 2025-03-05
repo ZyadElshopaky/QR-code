@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+#[Frontend Mentor - QR code component](https://zyadelshopaky.github.io/QR-code/)
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
